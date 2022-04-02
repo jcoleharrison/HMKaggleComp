@@ -1,5 +1,4 @@
 tensorflow==2.7
 matplotlib
 pandas
-asdfasf
-sdfasf
+
